@@ -1,3 +1,32 @@
 /* Your Styles Here */
+hr{
+    border-top: dashed black thick;
+}
+
 body{
+    background-color: #758A86;
+}
+
+h1{
+    font-size: large;
+    color: black;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    border-style: dashed;
+    border-right-color: navajowhite;
+    border-bottom-color: navajowhite;
+    max-width: 700px;
+    text-align: center;
+    margin: 50px auto;
+    background-color:  #8A7579;
+}
+
+.me{
+    border-radius: 40px;
+    margin: 50px auto;
+    display: block;
+    justify-content:center ;
+    width: 300px;
+    height: auto;
 }
